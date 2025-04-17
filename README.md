@@ -2,6 +2,8 @@
 
 A Model Context Protocol (MCP) server that allows Claude and other MCP-compatible LLMs to interact with and control Elektron synthesizers via MIDI.
 
+#### If you have a Moog Sub37/Subsequent37, check out our dedicated MCP server for it at [moog-sub37-mcp](https://github.com/zerubeus/moog-sub37-mcp).
+
 #### A web-based version of this MCP server can be found at [senthgenie.com](https://www.synthgenie.com/). (You can ask for API key for free on discord)
 
 #### If you want help or would like to contribute to development, please join our [Discord community](https://discord.gg/ZFuSuegBMS).
