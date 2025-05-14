@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/zerubeus-elektron-mcp-badge.png)](https://mseep.ai/app/zerubeus-elektron-mcp)
+
 # Elektron MCP
 
 A Model Context Protocol (MCP) server that allows Claude and other MCP-compatible LLMs to interact with and control Elektron synthesizers via MIDI.
